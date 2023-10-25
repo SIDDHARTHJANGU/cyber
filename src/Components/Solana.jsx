@@ -13,7 +13,7 @@ const Solana = () => {
           >
             <img className=" w-100" src={solna} alt="" />
           </Col>
-          <Col lg={4} className=" d-flex justify-content-center mt-5 mt-lg-0">
+          <Col lg={4} className=" d-flex justify-content-center mt-4 mt-lg-0">
             <img className=" w-75" src={solna1} alt="" />
           </Col>
         </Row>

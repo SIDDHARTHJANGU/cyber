@@ -7,7 +7,7 @@ const Cyberfps = () => {
     <div className="bg_img_sec3  pb-lg-5 overflow-hidden ">
       <Container className=" pt-lg-5 pb-5">
         <Row className=" align-items-center mt-lg-5 pt-5 pb-lg-5">
-          <Col lg={6}>
+          <Col lg={6} className=" pb-lg-5 ">
             <h2 className="fw_400 fs_64 ff-Audiowide text-black">
               What is <span className=" d-block gameplat-text">CyberFPS</span>
             </h2>
@@ -33,7 +33,7 @@ const Cyberfps = () => {
               in many popular FPS titles and is a high-skill cap game mode.
             </p>
           </Col>
-          <Col lg={6}>
+          <Col lg={6} className=" pb-lg-5">
             <img className="w-100" src={sec3} alt="" />
           </Col>
         </Row>

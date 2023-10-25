@@ -93,7 +93,7 @@ const Myheader = () => {
                 <button className="Get_buton text-black fs_16 fw_400 ff-Audiowide">
                   Get Started
                 </button>
-                <button className="learn_buton  text-white fs_16 fw_400 ff-Audiowide ms-sm-5">
+                <button className="learn_buton  text-white fs_16 fw_400 ff-Audiowide ms-4 ms-md-5">
                   Learn More
                 </button>
               </div>
