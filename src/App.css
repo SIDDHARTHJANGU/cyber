@@ -110,6 +110,7 @@
 .text_black {
   color: #4d4d4d;
 }
+
 .heading-line:after {
   position: absolute;
   content: "";
@@ -182,6 +183,7 @@ p {
 .z_20 {
   z-index: 20;
 }
+
 .accordion-item:not(:first-of-type) {
   border-top-left-radius: 40px !important;
   border-bottom-right-radius: 40px !important;
@@ -191,6 +193,7 @@ p {
   border-top-right-radius: 0 !important;
   border-top-left-radius: 40px !important;
 }
+
 .accordion {
   --bs-accordion-btn-focus-box-shadow: none !important;
   --bs-accordion-btn-focus-border-color: none !important;
@@ -277,6 +280,7 @@ p {
   --bs-btn-disabled-bg: none !important;
   --bs-btn-disabled-border-color: none !important;
 }
+
 @media (max-width: 1200px) {
   .nav-lg-screen {
     opacity: 0;
